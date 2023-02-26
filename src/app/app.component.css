@@ -1,0 +1,29 @@
+.reactivePROG {
+  background-color: #3f4064;
+  width: 100%;
+  min-height: 100vh;
+}
+h1 {
+  text-align: center;
+  color: #e3d697;
+  text-transform: uppercase;
+  font-size: 12em;
+  font-family: 'Knewave';
+  text-shadow: 5px 5px 0 #aa4534;
+  transform: skew(0, -6.7deg);
+  margin: 0 auto;
+  max-width: 800px;
+}
+h2 {
+  font-family: 'Knewave';
+  font-size: 2.5em;
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto 2em;
+  padding: 1em;
+  line-height: 1.35em;
+  color: #e3d697;
+  transform: skew(0, -6.7deg);
+  border-bottom: 5px solid #aa4534;
+  border-top: 5px solid #aa4534;
+}
